@@ -1,0 +1,17 @@
+.title, .author, .description, .image, .pages, .minutes {
+    display: none;
+  }
+  
+  .show {
+    display: block;
+  }
+
+  .hide  {
+    display: none;
+  }
+
+  .container1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
